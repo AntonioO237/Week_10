@@ -9,7 +9,7 @@ for x in horror_characters:
         x = "Human Centipede"
     print(x)
 
-    
+
 horror_movies = {"Child's Play 2", "The Shining", "The Fly", "A Nightmare on Elm Street", "Halloween", "Scream"}
 
 for x in horror_movies:
@@ -18,3 +18,5 @@ for x in horror_movies:
     if x == "The Fly":
         x = "Saw"
     print(x)
+
+# Edits
